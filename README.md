@@ -1,4 +1,4 @@
-# Welcome to My GitHub 👋
+# Hello there! 👋
 
 Hi, I'm **Ndabezinhle M Dlamini**<br/>
 I'm a Business Information Technology (BIT) student currently based in Johannesburg. <br/>
