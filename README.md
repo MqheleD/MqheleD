@@ -1,4 +1,4 @@
-# Hello there! 👋
+# Hello there!
 
 Hi, I'm **Ndabezinhle Dlamini**<br/>
 I'm a Business Information Technology (BIT) student currently based in Johannesburg. <br/>
