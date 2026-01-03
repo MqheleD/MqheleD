@@ -1,7 +1,7 @@
 # Hello there!
 
 Hi, I'm **Ndabezinhle Dlamini**<br/>
-I'm a Business Information Technology (BIT) student currently based in Johannesburg. <br/>
+
 My journey in tech started with a strong passion for building games and impactful applications.<br/>
 When I'm not coding, you can find me wither playing basketball, or playing with 3D software
 
