@@ -1,6 +1,6 @@
 # Hello there!!
 
-Hi, I'm **Ndabezinhle Dlamini**<br/>
+Hi, I'm **Ndabezinhle Dlamini**<br/> 
 
 My journey in tech started with a strong passion for building games and impactful applications.<br/>
 When I'm not coding, you can find me wither playing basketball, or playing with 3D software
