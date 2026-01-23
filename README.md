@@ -3,7 +3,7 @@
 Hi, I'm **Ndabezinhle  Dlamini**<br/> 
 
 My journey in tech started with a strong passion for building games and impactful applications.<br/>
-When I'm not coding, you can find me either playing basketball, or playing with 3D software 
+When I'm not coding, you can find me either playing basketball, or playing with 3D software  
 
 
 ## 🌐 Socials:
