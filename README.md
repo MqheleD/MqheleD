@@ -6,6 +6,7 @@ My journey in tech started with a strong passion for building games and impactfu
 When I'm not coding, you can find me either playing basketball, or playing with 3D software  
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mqheled) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ndabezinhledlamini) 
 
